@@ -2,8 +2,8 @@ Recipes App
 ﻿
 
 DELETE
-http://localhost:3000/recipes/6719420a04dc29c53c6b5d91
-http://localhost:3000/recipes/6719420a04dc29c53c6b5d91
+http://localhost:4000/recipes/6719420a04dc29c53c6b5d91
+http://localhost:4000/recipes/6719420a04dc29c53c6b5d91
 ﻿
 
 Body
@@ -20,8 +20,8 @@ json
                  "Fill the taco shells with seasoned beef, then top with lettuce, tomatoes, cheese, sour cream, and salsa."]
 }
 PATCH
-http://localhost:3000/recipes/6719420a04dc29c53c6b5d91
-http://localhost:3000/recipes/6719420a04dc29c53c6b5d91
+http://localhost:4000/recipes/6719420a04dc29c53c6b5d91
+http://localhost:4000/recipes/6719420a04dc29c53c6b5d91
 ﻿
 
 Body
@@ -38,8 +38,8 @@ json
                  "Fill the taco shells with seasoned beef, then top with lettuce, tomatoes, cheese, sour cream, and salsa."]
 }
 POST
-http://localhost:3000/recipes
-http://localhost:3000/recipes
+http://localhost:4000/recipes
+http://localhost:4000/recipes
 ﻿
 
 Body
@@ -56,15 +56,15 @@ json
                  "Fill the taco shells with seasoned beef, then top with lettuce, tomatoes, cheese, sour cream, and salsa."]
 }
 GET
-http://localhost:3000/recipes/67193c887e03643cb45f6f69
-http://localhost:3000/recipes/67193c887e03643cb45f6f69
+http://localhost:4000/recipes/67193c887e03643cb45f6f69
+http://localhost:4000/recipes/67193c887e03643cb45f6f69
 ﻿
 
 GET
-http://localhost:3000/recipes
-http://localhost:3000/recipes
+http://localhost:4000/recipes
+http://localhost:4000/recipes
 ﻿
 
 GET
-http://localhost:3000
-http://localhost:3000
+http://localhost:4000
+http://localhost:4000
