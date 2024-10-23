@@ -4,10 +4,9 @@ const recipeModel = require('../model/recipes.model');
 const recipeRouter = require('express').Router();
 
 // Fetche all the recipes
-recipeRouter.get('/', async function (req, res) {
+recipeRouter.get("/", async function (req, res) {
     try {
         const result = await recipeModel.find();
-        console.log("result", result);
         return res.status(200).json({
             message: "Recipes fetched successfully",
             success: true,

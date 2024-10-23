@@ -29,7 +29,7 @@ API_Server.use('/recipes', recipeController);
 
 API_Server.get('/', function (req, res) {
     return res.json({
-        message: 'Hello, World!',
+        message: 'Welcome to Recipes App!',
         success: true,
     });
 });
